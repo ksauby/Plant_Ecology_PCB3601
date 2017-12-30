@@ -1,0 +1,9 @@
+# R Basic
+
+## Installing R
+
+Here are a few videos to help:
+
+Installing on a Windows computer: https://www.youtube.com/watch?v=aCRMhAWmtpw
+
+Installing on a Mac computer: https://www.youtube.com/watch?v=GFImMj1lMRI
